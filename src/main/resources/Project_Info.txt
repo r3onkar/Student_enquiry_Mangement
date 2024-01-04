@@ -1,0 +1,19 @@
+Project Requirement 
+------------------------------
+Student enquiry Mangement
+------------------------
+Api_Url 
+dashboard
+enquiry
+enquires
+singup
+login
+forgot
+forgotpasswoord
+-------------------
+Entity classes
+-StudentEntityClass -Sname
+					-Semail
+					-password
+					-phone_no
+					
